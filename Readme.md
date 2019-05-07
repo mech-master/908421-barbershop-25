@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Евгений Ли](https://up.htmlacademy.ru/htmlcss/25/user/908421).
+* Наставник: [Ксюша Щанникова](https://htmlacademy.ru/profile/ksenia-ok).
 
 ---
 
